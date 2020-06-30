@@ -133,6 +133,20 @@
         "type": 1,
         "protocols": 1,
         "active": true
+      },
+      {
+        "title": "all URLs",
+        "pattern": "*firefox.com",
+        "type": 1,
+        "protocols": 1,
+        "active": true
+      },
+      {
+        "title": "all URLs",
+        "pattern": "*mozilla.com",
+        "type": 1,
+        "protocols": 1,
+        "active": true
       }
     ],
     "blackPatterns": [],
